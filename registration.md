@@ -3,3 +3,4 @@ Students can register using:
 - email
 - phone
 - password
+- location
